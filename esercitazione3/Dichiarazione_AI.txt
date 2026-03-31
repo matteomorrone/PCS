@@ -1,0 +1,2 @@
+Dichiaro che per lo svolgimento dell'esercitazione ho consultato Gemini in merito alla corretta implementazione della funzione std::gcd (Greatest Common Divisor) introdotta con l'header <numeric>, al fine di garantire una riduzione efficiente delle frazioni nel metodo semp().
+Matteo Morrone.
