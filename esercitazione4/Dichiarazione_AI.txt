@@ -1,0 +1,2 @@
+Dichiaro che per lo svolgimento dell'esercitazione ho consultato Gemini in merito all'uso di static_cast per il confronto tra size_t e int.
+Matteo Morrone.
