@@ -1,0 +1,4 @@
+Ho utilizzato Gemini per risolvere un errore inerente al Merge. Nello specifico, inizialmente ho usato std::numeric_limits<int>::max() per tradurre questa parte di pseudocodice:
+L[n1 +1] ← ∞
+R[n2 +1] ← ∞
+Avevo un errore per quanto riguarda il vettore di stringhe (che chiaramente non ha un max), quindi ho usato Gemini per trovare una soluzione più generica.
